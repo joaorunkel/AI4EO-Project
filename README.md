@@ -18,12 +18,6 @@ Predicting the direction and intensity of deforestation spread within Terra Indi
 ├── models/
 │   └── model.pt           # Trained ConvLSTM2D weights (included in repo)
 ├── figures/               # Generated figures (PDF)
-├── report/                # LaTeX thesis project (upload to Overleaf)
-│   ├── main.tex
-│   ├── references.bib
-│   └── figures/
-├── thesis_report.zip      # Ready-to-upload Overleaf zip
-└── training_history.pkl   # Training loss history
 ```
 
 ## How to Replicate Results
