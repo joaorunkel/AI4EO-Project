@@ -1,6 +1,6 @@
 # Deforestation Spread Prediction in TI Koatinemo
 
-Master's thesis: predicting the direction and intensity of deforestation spread within Terra Indigena Koatinemo (Para, Brazil) using Sentinel-2 NDMI time series and ConvLSTM2D with Monte Carlo Dropout uncertainty estimation.
+Predicting the direction and intensity of deforestation spread within Terra Indigena Koatinemo (Para, Brazil) using Sentinel-2 NDMI time series and ConvLSTM2D with Monte Carlo Dropout uncertainty estimation.
 
 ## Repository Structure
 
